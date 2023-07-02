@@ -222,6 +222,7 @@ body{
    display: flex;
    flex-direction: column;
    justify-content: space-between;
+   background-color: #FFF;
 }
 .menu-close-btn {
    display: block;
