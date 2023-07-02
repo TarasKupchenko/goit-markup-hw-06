@@ -973,8 +973,8 @@ color: var(--text-color);
 
 .modal{
    /*width: 408px;*/
-   width: 392px;
-   min-height: 584px;
+   width: 292px;
+  
    position: absolute;
    top: 50%;
    left: 50%;
@@ -1261,7 +1261,12 @@ margin-bottom: 16px;
       text-align: left;
    }
    .footer-logo{
-      margin-right: 24px;}
+      margin-right: 24px;
+   }
+   .modal{
+      width: 392px;
+      min-height: 584px;
+   }
 }
 
 @media screen and (min-width: 1158px) {
