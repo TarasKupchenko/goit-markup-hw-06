@@ -1198,6 +1198,9 @@ margin-bottom: 16px;
    .header-cntainer{
       padding: 0 16px;
    }
+   .menu-open-btn{
+      display: none;
+   }
 
    .menu-btn{
       display: none;
