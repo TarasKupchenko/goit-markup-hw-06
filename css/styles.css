@@ -85,7 +85,7 @@ body{
 .header-cntainer{
    display: flex;
    align-items: center;
-   padding: 24px 0;
+   padding: 24px 16px;
    
 }
 
@@ -1159,7 +1159,7 @@ margin-bottom: 16px;
       padding: 0 16px 0 16px;      
    }
    .header-cntainer{
-      padding: 24px 16px;
+     
    }
    .mob-contacts-tel {
       font-size: 36px; 
