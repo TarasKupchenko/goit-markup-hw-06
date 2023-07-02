@@ -1178,7 +1178,9 @@ margin-bottom: 16px;
    .clients-list-items{
       width: calc((100% - 16px) / 2);
    }
-   
+   .modal{
+      width: 392px;
+   }
 }
 
 @media screen and (min-width: 768px) {
